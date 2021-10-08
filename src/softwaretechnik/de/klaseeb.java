@@ -5,4 +5,5 @@ public class klaseeb {
     /**
      * test test test test test *5
      */
+    int oderdu;
 }
